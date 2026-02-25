@@ -1,16 +1,41 @@
-# dhruvala2
+# 📱 ALA2 – Android Development Framework
+## 🎯 Joke Generator App (Flutter)
 
-A new Flutter project.
+**Name:** Dhruv Ponda  
+**Enrollment No.:** 20230905090049
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Project Description
 
-A few resources to get you started if this is your first Flutter project:
+This project is developed as part of **ALA2 – Android Development Framework**.  
+The application is a **Joke Generator App** built using **Flutter** and **Dart**.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The app fetches random jokes from a public API and displays:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Joke setup
+- Hidden punchline (toggle visibility)
+- Button to fetch a new joke
+
+The project demonstrates understanding of:
+
+- Flutter architecture
+- Stateful widgets
+- HTTP networking
+- API integration
+- JSON parsing
+- UI design using Material components
+
+---
+
+## 📸 Application Screenshots
+
+### 🔹 Screenshot 1 – Application UI
+
+![App Screenshot 1](images/Screenshot 2026-02-24 235649.png)
+
+---
+
+### 🔹 Screenshot 2 – Working Output
+
+![App Screenshot 2](images/Screenshot 2026-02-24 235704.png)
