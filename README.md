@@ -32,10 +32,10 @@ The project demonstrates understanding of:
 
 ### 🔹 Screenshot 1 – Application UI
 
-![App Screenshot 1](images/Screenshot 2026-02-24 235649.png)
+<img width="2559" height="1439" alt="Screenshot 2026-02-24 235649" src="https://github.com/user-attachments/assets/cc99547f-3513-4fb2-9b56-73a3cc2cb2b2" />
 
 ---
 
 ### 🔹 Screenshot 2 – Working Output
 
-![App Screenshot 2](images/Screenshot 2026-02-24 235704.png)
+<img width="2559" height="1439" alt="Screenshot 2026-02-24 235704" src="https://github.com/user-attachments/assets/5a46e225-c9a0-43b1-8173-3468ade1c3c8" />
